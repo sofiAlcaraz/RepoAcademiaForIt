@@ -1,0 +1,9 @@
+[submodule "AcademiaForITBackend"]
+	path = AcademiaForITBackend
+	url = https://github.com/sofiAlcaraz/AcademiaForITBackend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sofiAlcaraz/AcademiaForITBackend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sofiAlcaraz/AcademiaForITFront
